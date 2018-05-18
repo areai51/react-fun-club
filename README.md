@@ -1,5 +1,4 @@
-#
-**# React Tech Club**
+#**# React Tech Club**
 
 # **By-Laws**
 
@@ -17,7 +16,7 @@
 4. React Tech Club helps in analyzing and developing applications with new and emerging Backend applications and to resolve issues available in existing backend architecture and to help other communities/team to develop new react based websites (Like silent auction)
 5. React Tech Club will be the source to come up with a platform to get people onboard so that they get to ask question related to problems or concerns and these conversations are recorded for future use as well
 
-ARTICLE II:  MEMBERSHIP &amp; DUES
+**ARTICLE II:  MEMBERSHIP &amp; DUES**
 
 **Section A: Eligibility** – React Tech Club shall be open to all the XT community at Sapient Razorfish upon payment of the dues as outlined in Section B.
 
@@ -29,7 +28,7 @@ ARTICLE II:  MEMBERSHIP &amp; DUES
 
 - .-
 
-ARTICLE III:  OFFICERS
+**ARTICLE III:  OFFICERS**
 
 **Section A: Officers** –
 
@@ -41,7 +40,7 @@ ARTICLE III:  OFFICERS
 
 **Section E: Vacancy** –
 
-ARTICLE IV:  DUTIES OF OFFICERS
+**ARTICLE IV:  DUTIES OF OFFICERS**
 
 **Section A: President** –  it shall be the duty of the President to:
 
@@ -61,7 +60,7 @@ ARTICLE IV:  DUTIES OF OFFICERS
 
 
 
-ARTICLE V:  MEETINGS
+**ARTICLE V:  MEETINGS**
 
 **Section A:** Meetings – Regular meetings shall be held monthly 4 times stating once in a week. Club must hold a minimum of 2 meetings in a month.
 
@@ -71,7 +70,7 @@ ARTICLE V:  MEETINGS
 
 **Section D:**  ​Executive Meetings –
 
-ARTICLE VI:  EXECUTIVE COMMITTEE
+**ARTICLE VI:  EXECUTIVE COMMITTEE**
 
 **Section A: Responsibility** –
 
@@ -94,7 +93,7 @@ ARTICLE VI:  EXECUTIVE COMMITTEE
 - .Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger.
 - .Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors.
 
-ARTICLE VIII:  COMMITTEES
+**ARTICLE VIII:  COMMITTEES**
 
 **Section A: Program Committee** –
 
@@ -102,13 +101,13 @@ ARTICLE VIII:  COMMITTEES
 
 **Section C: Special Committees** – The President shall have the authority to appoint any special committees, with the approval of the Executive Committee, from time to time as need demands.
 
-ARTICLE IX:  AMENDMENTS
+**ARTICLE IX:  AMENDMENTS**
 
 **Section A: Selection** – these bylaws may be amended by a two-thirds (2/3) majority vote of the chapter membership.
 
 **Section B: Notice** – All members shall receive advance notice of the proposed amendment/bylaws at least 1 week before putting into action.
 
-ARTICLE X:  FINANCIAL USES
+**ARTICLE X:  FINANCIAL USES**
 
 **Section A: Spending ** – React Tech Club may spend money on activities which will benefit member(s) to learn and explore technologies/skills. Events such as hacakthons, conferences, and panels are events where using Tech Club money is permitted.
 
