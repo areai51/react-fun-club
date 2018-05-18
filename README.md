@@ -4,7 +4,7 @@
 
 **ARTICLE I:  NAME &amp; PURPOSE**
 
-**Section A: Name –** The name of this club shall be React Tech Club.
+&nbsp;&nbsp;&nbsp;**Section A: Name –** The name of this club shall be React Tech Club.
 
 **Section B: Work Affiliation** – React Tech Club is a part of experience technology Tech Club
 
